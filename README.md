@@ -237,4 +237,4 @@ This repository serves as the official landing page for Xvid. The software is di
 **Get the most recent version of Xvid today!**
 
 ---
-**Last updated:** 2026-10-12 23:26:50 UTC
+**Last updated:** 2026-10-13 05:15:32 UTC
